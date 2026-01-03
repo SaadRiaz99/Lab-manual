@@ -1,0 +1,2 @@
+This is Lab Exercise 1.
+File created and written successfully.
